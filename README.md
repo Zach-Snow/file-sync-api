@@ -1,4 +1,4 @@
-# file-sync-api
+# file-sync-application
 
 - have to install the packages from requirements.txt first
 ```commandline

@@ -5,6 +5,13 @@
 pip3 install -r requirements.txt
 ```
 
+- For the initial run, remember to replace the "creation_track.json" file to below json values,
+
+```json
+{"prev_files_count": 0, 
+  "prev_files_list": []}
+```
+
 - when running the script it should be run as
 ```commandline
 python3 folder_sync.py "source path" "destination path" "log file path" 60
